@@ -1,10 +1,13 @@
 # cartonize
 Convert photo into cartonize
 
-from this;
-
+```bash
+from this:
+```
 ![](images/dog.jpg)
 
-If successful, you should see this image:
 
+```bash
+If successful, you should see this image:
+```
 ![](images/img_masked.jpg)

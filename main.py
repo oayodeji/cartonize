@@ -4,7 +4,7 @@
 # import the package
 import cv2
  
-image = cv2.imread('dog.jpg')
+image = cv2.imread('images/dog.jpg')
 image_gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 image_gray  = cv2.medianBlur(image_gray, 5)
 

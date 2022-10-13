@@ -3,4 +3,8 @@ Convert photo into cartonize
 
 from this;
 
-![](dog.jpg)
+![](images/dog.jpg)
+
+If successful, you should see this image:
+
+![](images/img_masked.jpg)
